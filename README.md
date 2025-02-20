@@ -14,7 +14,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oneloutre&theme=transparent" />
   </a>
   <a href="https://github.com/Oneloutre">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oneloutre&theme=transparent" />
   </a>
   <a href="https://github.com/Oneloutre">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oneloutre&theme=transparent" />
