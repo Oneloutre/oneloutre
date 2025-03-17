@@ -22,6 +22,8 @@
 </p>
 <table><tr><td valign="top" width="33%">
 
+<a href="https://u8views.com/github/Oneloutre"><img src="https://u8views.com/api/v1/github/profiles/54822802/views/day-week-month-total-count.svg"></a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
