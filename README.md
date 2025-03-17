@@ -21,8 +21,6 @@
   </a>
 </p>
 
----
-
 <a href="https://u8views.com/github/Oneloutre"><img src="https://u8views.com/api/v1/github/profiles/54822802/views/day-week-month-total-count.svg"></a>
 
 <table><tr><td valign="top" width="33%">
