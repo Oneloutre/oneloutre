@@ -10,18 +10,18 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <a href="https://github.com/Oneloutre">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oneloutre&theme=transparent" />
+  <a href="https://github.com/onelots">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onelots&theme=transparent" />
   </a>
-  <a href="https://github.com/Oneloutre">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oneloutre&theme=transparent" />
+  <a href="https://github.com/onelots">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onelots&theme=transparent" />
   </a>
-  <a href="https://github.com/Oneloutre">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oneloutre&theme=transparent" />
+  <a href="https://github.com/onelots">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=onelots&theme=transparent" />
   </a>
 </p>
 
-<a href="https://u8views.com/github/Oneloutre"><img src="https://u8views.com/api/v1/github/profiles/54822802/views/day-week-month-total-count.svg"></a>
+<a href="https://u8views.com/github/onelots"><img src="https://u8views.com/api/v1/github/profiles/54822802/views/day-week-month-total-count.svg"></a>
 
 <table><tr><td valign="top" width="33%">
 
@@ -30,7 +30,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Oneloutre&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=onelots&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/0nelots) 
